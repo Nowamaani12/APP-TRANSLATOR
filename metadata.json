@@ -1,0 +1,10 @@
+{
+  "name": "Runyankole Translator",
+  "description": "Accurate English to Runyankole (Runyankore) translation with pronunciation, grammatical breakdown, and conversational phrasebook.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
